@@ -74,6 +74,7 @@ export default function Home() {
                         width={350}
                         height={613}
                         alt="profile"
+                        className="rounded-md"
                     />
                 </div>
             </div>
