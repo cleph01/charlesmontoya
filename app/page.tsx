@@ -64,8 +64,8 @@ export default function Home() {
                         Previously a financial derivatives contract analyst and
                         CFA charterholder for various investment management
                         firms on Wall Street. I am now a contract software
-                        engineer at a digital marketing agency where I've built
-                        solutions for a number of small businesses.
+                        engineer at a digital marketing agency where I have
+                        built solutions for a number of small businesses.
                     </div>
                 </div>
                 <div>
