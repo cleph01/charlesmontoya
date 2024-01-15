@@ -76,7 +76,7 @@ const Project = ({ params }: { params: { id: string } }) => {
     return (
         <div className="flex flex-col items-center justify-center text-gray-700 bg-slate-100 p-6">
             {/* Breadcrumbs */}
-            <div className="flex flex-col items-center justify-center bg-gray-50 sm:w-[760px] sm:border sm:border-gray-400 sm:rounded-lg sm:px-6 sm:shadow-xl">
+            <div className="flex flex-col items-center justify-center sm:bg-gray-50 sm:w-[760px] sm:border sm:border-gray-400 sm:rounded-lg sm:px-6 sm:shadow-xl">
                 <div className="w-full flex-start text-sm sm:text-base sm:pt-4">
                     <Link href="/">home</Link>/{project?.id}
                 </div>
