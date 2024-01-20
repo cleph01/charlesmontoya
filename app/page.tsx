@@ -87,18 +87,17 @@ export default function Home() {
                         </p>
                         <div>
                             <p className="mb-2 text-justify sm:ml-2 sm:text-lg">
-                                Customers signs-up with mobile number or email
-                                on a tablet. After fourth visit, customer is
-                                presented with a discount. User can also
-                                check-in and sign-up with their mobile browser
-                                via QR code.
+                                Customers sign-up with mobile number or email on
+                                a tablet. After fourth visit, customer is
+                                presented with a discount. Customer can also
+                                check-in and sign-up via QR code.
                             </p>
                             <div className="sm:ml-2 sm:text-lg">
                                 <p>
                                     <span className="font-semibold">
                                         Tech Stack:
                                     </span>{" "}
-                                    NextJS, Firebase, MailSend, Twilio
+                                    NextJS, Firebase, Twilio, MailSend
                                 </p>
                                 <Link
                                     href="/projects/reward-club"
@@ -121,8 +120,8 @@ export default function Home() {
                                 Improved lead conversion opportunity by creating
                                 and implementing an sms contact form alongside
                                 their traditional email contact form. SMS
-                                contact form outperformed in extraordinary
-                                fashion.
+                                contact form outperforms in extraordinary and
+                                profitable fashion.
                             </p>
                             <div className="sm:ml-2 sm:text-lg">
                                 <p>
@@ -152,8 +151,7 @@ export default function Home() {
                                 The shop sends promotional and marketing
                                 messages during the holidays to over 8,000
                                 customer numbers that we helped them collect via
-                                a tablet located in the store. Text messages
-                                usually a nice image.
+                                a tablet located in the store.
                             </p>
                             <div className="sm:ml-6 sm:text-lg">
                                 <p>
