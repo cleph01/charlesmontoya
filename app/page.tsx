@@ -49,17 +49,16 @@ export default function Home() {
                         <p className="text-xl mb-2">Technologies:</p>
                         <p className="mb-2 sm:text-lg">
                             <span className="font-semibold">Frontend:</span>{" "}
-                            React, NextJS, SASS/LESS/CSS, Tailwind, MaterialUI,
-                            Redux, React Query
+                            React, NextJS, Redux, CSS/SASS/LESS, Tailwind
                         </p>
                         <p className="mb-2 sm:text-lg">
                             <span className="font-semibold">Backend:</span>{" "}
-                            Node, Express, REST, Firebase, Supabase, MongoDB,
-                            PostgreSQL, Sqlite3
+                            Node, Express, PostgreSQL, MongoDB, Firebase,
+                            Supabase
                         </p>
                         <p className="mb-2 sm:text-lg">
                             <span className="font-semibold">Languages:</span>{" "}
-                            Javascript, TypeScript, Python, PHP{" "}
+                            Javascript, TypeScript, Python, PHP
                         </p>
                         <p className="mb-2 sm:text-lg">
                             <span className="font-semibold">PaaS:</span> Google
