@@ -17,10 +17,10 @@ const projectData = [
     {
         id: "reward-club",
         title: "Reward Club",
-        desc: "A customer loyalty program that I built for a chicken wing restaurant in Queens, NY. They have a location in Astoria and another in Rego Park. The system is a web app served through the broswer on a table in the restaurants. Customers can signup via a tablet with mobile number or their email.  After the 4th visit, they earn a discount on their purchase. Customers and staff can also use a look-up function in order to check stats like current points and last time the customer checked in or earned a discount.",
+        desc: "A customer loyalty program that I built for a chicken wing restaurant in Queens, NY. The system is at two locations: Astoria and Rego Park. The system is served as a web app on an iPad broswer alongside the cash register. Customers can signup with a mobile number or email.  After the 4th visit, they earn a discount on their purchase. Customers and staff can also use a look-up function to check stats like current points and last time the customer checked in or earned a discount.",
         highlights: [
             "Over 4,000 users",
-            "Custom Solution to allow Mobile CheckIn",
+            "Custom Solution to allow browser based Mobile CheckIn via QR Code.",
         ],
         stack: {
             front: ["NextJS", "CSS"],
@@ -31,9 +31,9 @@ const projectData = [
     {
         id: "web-to-sms",
         title: "Web to SMS",
-        desc: "A Web-to-SMS contact form I build for a roofer in Ansonia, CT. The roofer had previously made casual comments about how much spam they were getting to their contact forms and how it would result in them missing requests for estimates. This form is an alternative to standard email forms in that the potential client sends this message and the owner of the roofing company recieves the message directly to his mobile phone.  Since its deployment, this tool has recorded over 201 incoming requests for estimates, volume that the owner states is much more than what would previously come in from emails.",
+        desc: "A Web-to-SMS contact form I build for a roofer in Ansonia, CT. The roofer had previously made casual comments about how much spam they were getting from their contact form and how it would result in their missing requests for estimates. My form is an alternative to a standard email form in that the potential client sends this message to the owner's mobile phone.  Since its deployment, this tool has recorded over 201 incoming requests for estimates, volume that the owner verifies is much more than what would previously come in from emails.",
         highlights: [
-            "Elimiated Email Contact Form",
+            "Elimiated Spam from Email Contact Form",
             "Improved Sales Conversion",
         ],
         stack: {
@@ -45,8 +45,11 @@ const projectData = [
     {
         id: "sms-marketing",
         title: "SMS Marketing",
-        desc: "An SMS marketing service I built for a jewelry store in Yonkers, NY. One of my first independat projects, which I coded in PHP and delivered on a tablet which was on display in the jewelry store.  Over 6 years, we've helped the business collect over 8,000 mobile numbers, which they send promotional messages to throughout the year.",
-        highlights: ["Captured over 8,000", "include media files"],
+        desc: "An SMS marketing service I built for a jewelry store in Yonkers, NY. One of my first independent projects, which I coded in PHP and was served on an iPad browser on display on a stand in the jewelry store.  Over 6 years, we've helped the business collect over 8,000 mobile numbers, which they send promotional messages to throughout the year.",
+        highlights: [
+            "Captured over 8,000",
+            "Customers routinely thankful for the promotions.",
+        ],
         stack: {
             front: ["NextJS", "CSS"],
             back: ["Firebase", "Cloud Functions", "Twilio"],
@@ -72,7 +75,7 @@ function getPost({ params }: { params: { id: string } }) {
 
 const Project = ({ params }: { params: { id: string } }) => {
     const project = getPost({ params });
-    console.log("project: ", project);
+
     return (
         <div className="flex flex-col items-center justify-center text-gray-700 bg-slate-100 p-6">
             {/* Breadcrumbs */}
