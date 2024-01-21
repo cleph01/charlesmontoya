@@ -82,10 +82,10 @@ export default function Home() {
                 {/* Project */}
                 <div className="mb-6">
                     <div className="flex flex-col sm:flex-row">
-                        <p className="mb-2 text-sky-700 sm:text-lg sm:w-2/3">
+                        <p className="flex-1 mb-2 text-sky-700 sm:text-lg sm:w-2/3">
                             Customer Loyalty Program for Restaurant
                         </p>
-                        <div>
+                        <div className="w-full sm:w-2/3">
                             <p className="mb-2 text-justify sm:ml-2 sm:text-lg">
                                 Customers sign-up with mobile number or email on
                                 a tablet. After fourth visit, customer is
@@ -103,7 +103,7 @@ export default function Home() {
                                     href="/projects/reward-club"
                                     className="text-red-700"
                                 >
-                                    Demo
+                                    Demo Video
                                 </Link>
                             </div>
                         </div>
@@ -111,12 +111,12 @@ export default function Home() {
                 </div>
                 {/* Project */}
                 <div className="mb-6">
-                    <div className="flex flex-col sm:flex-row">
-                        <p className="mb-2 text-sky-700 sm:text-lg sm:w-2/3">
+                    <div className="flex flex-col sm:flex-row ">
+                        <p className="flex-1 mb-2 text-sky-700 sm:text-lg ">
                             Web-to-SMS Contact Form for Roofer
                         </p>
-                        <div>
-                            <p className="mb-2 sm:ml-2 sm:text-lg">
+                        <div className="w-full sm:w-2/3">
+                            <p className="mb-2 sm:ml-2 sm:text-lg ">
                                 Improved lead conversion opportunity by creating
                                 and implementing an sms contact form alongside
                                 their traditional email contact form. SMS
@@ -134,7 +134,7 @@ export default function Home() {
                                     href="/projects/web-to-sms"
                                     className="text-red-700"
                                 >
-                                    Demo
+                                    Demo Video
                                 </Link>
                             </div>
                         </div>
@@ -143,17 +143,17 @@ export default function Home() {
                 {/* Project */}
                 <div className="mb-6">
                     <div className="flex flex-col sm:flex-row">
-                        <p className="mb-2 text-sky-700 sm:text-lg sm:w-2/3">
+                        <p className="flex-1 mb-2 text-sky-700 sm:text-lg sm:w-2/3">
                             SMS Marketing Program for Jewelry Store
                         </p>
-                        <div>
-                            <p className="mb-2 sm:ml-6 sm:text-lg">
+                        <div className="w-full sm:w-2/3">
+                            <p className="mb-2 sm:ml-2 sm:text-lg">
                                 The shop sends promotional and marketing
                                 messages during the holidays to over 8,000
                                 customer numbers that we helped them collect via
                                 a tablet located in the store.
                             </p>
-                            <div className="sm:ml-6 sm:text-lg">
+                            <div className="sm:ml-2 sm:text-lg">
                                 <p>
                                     <span className="font-semibold">
                                         Tech Stack:
@@ -164,7 +164,7 @@ export default function Home() {
                                     href="/projects/sms-marketing"
                                     className="text-red-700"
                                 >
-                                    Demo
+                                    Demo Video
                                 </Link>
                             </div>
                         </div>
