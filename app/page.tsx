@@ -82,7 +82,7 @@ export default function Home() {
                 {/* Project */}
                 <div className="mb-6">
                     <div className="flex flex-col sm:flex-row">
-                        <p className="flex-1 mb-2 text-sky-700 sm:text-lg sm:w-2/3">
+                        <p className="flex-1 mb-2 sm:text-lg sm:w-2/3">
                             Customer Loyalty Program for Restaurant
                         </p>
                         <div className="w-full sm:w-2/3">
@@ -101,7 +101,7 @@ export default function Home() {
                                 </p>
                                 <Link
                                     href="/projects/reward-club"
-                                    className="text-red-700"
+                                    className="text-sky-700"
                                 >
                                     Demo Video
                                 </Link>
@@ -112,7 +112,7 @@ export default function Home() {
                 {/* Project */}
                 <div className="mb-6">
                     <div className="flex flex-col sm:flex-row ">
-                        <p className="flex-1 mb-2 text-sky-700 sm:text-lg ">
+                        <p className="flex-1 mb-2 sm:text-lg ">
                             Web-to-SMS Contact Form for Roofer
                         </p>
                         <div className="w-full sm:w-2/3">
@@ -132,7 +132,7 @@ export default function Home() {
                                 </p>
                                 <Link
                                     href="/projects/web-to-sms"
-                                    className="text-red-700"
+                                    className="text-sky-700"
                                 >
                                     Demo Video
                                 </Link>
@@ -143,7 +143,7 @@ export default function Home() {
                 {/* Project */}
                 <div className="mb-6">
                     <div className="flex flex-col sm:flex-row">
-                        <p className="flex-1 mb-2 text-sky-700 sm:text-lg sm:w-2/3">
+                        <p className="flex-1 mb-2 sm:text-lg sm:w-2/3">
                             SMS Marketing Program for Jewelry Store
                         </p>
                         <div className="w-full sm:w-2/3">
@@ -162,7 +162,7 @@ export default function Home() {
                                 </p>
                                 <Link
                                     href="/projects/sms-marketing"
-                                    className="text-red-700"
+                                    className="text-sky-700"
                                 >
                                     Demo Video
                                 </Link>
