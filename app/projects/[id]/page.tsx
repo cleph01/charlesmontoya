@@ -81,15 +81,17 @@ const Project = ({ params }: { params: { id: string } }) => {
             {/* Breadcrumbs */}
             <div className="flex flex-col items-center justify-center sm:bg-gray-50 sm:w-[760px] sm:border sm:border-gray-400 sm:rounded-lg sm:px-6 sm:shadow-xl">
                 <div className="w-full flex justify-between text-sm sm:text-base sm:pt-4">
-                    <div>
-                        <Link href="/">home</Link>/{project?.id}
-                    </div>
+                    <div> </div>
                     <div>
                         {project?.id === "reward-club" && (
-                            <Link href="/projects/web-to-sms">next</Link>
+                            <Link href="/projects/web-to-sms">
+                                next project {">"}
+                            </Link>
                         )}
                         {project?.id === "web-to-sms" && (
-                            <Link href="/projects/sms-marketing">next</Link>
+                            <Link href="/projects/sms-marketing">
+                                next project {">"}
+                            </Link>
                         )}
                     </div>
                 </div>
@@ -110,11 +112,15 @@ const Project = ({ params }: { params: { id: string } }) => {
                 </div>
                 {/* Footer */}
                 <div className="py-6 w-full items:start">
-                    <h4 className="sm:text-lg">
-                        <span className="font-semibold">Description: </span>
-                        {project?.desc}
-                    </h4>
-                    <div className="sm:text-lg">
+                    <p>
+                        <span className="font-semibold text-base sm:text-lg">
+                            Description:{" "}
+                        </span>
+                        <span className="text-sm sm:text-lg">
+                            {project?.desc}
+                        </span>
+                    </p>
+                    <div className="text-sm sm:text-lg">
                         <p className="my-6">Highlights:</p>
                         <ul className="list-disc px-4">
                             {project?.highlights.map((highlight, index) => (
@@ -123,11 +129,11 @@ const Project = ({ params }: { params: { id: string } }) => {
                         </ul>
                     </div>
 
-                    <div className="mt-6 sm:text-lg">
+                    <div className="mt-6 text-sm sm:text-lg">
                         <p className="my-4">Technologies:</p>
                         {/* Front end Technologies */}
                         <div className="mb-4 ml-4">
-                            <label htmlFor="front-tech">Front:</label>
+                            <label htmlFor="front-tech">Front End:</label>
                             <ul id="front-tech" className="list-disc px-4">
                                 {project?.stack.front.map((tech, index) => (
                                     <li key={index}>{tech}</li>
@@ -136,7 +142,7 @@ const Project = ({ params }: { params: { id: string } }) => {
                         </div>
                         {/* Back end Technologies */}
                         <div className="ml-4">
-                            <label htmlFor="back-tech">Back:</label>
+                            <label htmlFor="back-tech">Back End:</label>
                             <ul id="back-tech" className="list-disc px-4">
                                 {project?.stack.back.map((tech, index) => (
                                     <li key={index}>{tech}</li>
