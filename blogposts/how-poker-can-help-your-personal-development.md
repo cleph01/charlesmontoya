@@ -6,7 +6,9 @@ image: "/assets/images/blog/poker_tell.jpg"
 
 ![Poker](/assets/images/blog/poker_tell.jpg)
 
-They both share this concept of a “tell” 🤫🃏.
+## What does Yawning have to do with Poker? 🃏
+
+They both share this concept of a “tell” 🤫.
 
 ## Discovering a Psychological "Tell" at the Scientology Center 🕵️‍♂️
 
