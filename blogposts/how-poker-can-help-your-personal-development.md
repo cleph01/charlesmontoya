@@ -60,7 +60,7 @@ Over all, it calls on a deep self-honesty and curiousity to be introspective, to
 
 ## Rethinking Yawning: A Sign of Internal Struggle 🤯
 
-Because, come on... to starting yawning during the minutes leading up to jumping in to spar.
+Because, come on... to start yawning right before jumping in to spar...?
 
 That's one h3ll of a time for the body to tap me on the shoulder to tell me I'm tired.
 
