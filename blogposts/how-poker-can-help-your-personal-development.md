@@ -64,29 +64,31 @@ Because, come on... to start yawning right before jumping in to spar...?
 
 That's one h3ll of a time for the body to tap me on the shoulder to tell me I'm tired.
 
-What’s worse, if it is a psychological tell, then what the h#ll is my body doing signaling to my opponent that "I'm sleepy” - when I anything but "sleepy".
+What’s worse, if it is a psychological tell, then what the h#ll is my body doing signaling to my opponent that "I'm sleepy” - when I'm anything but "sleepy".
 
-So what "was" I? I was uncomfortable. I was subconsciously reconciling the battle-training I was about to engage in.
+So what "was" I? I was **uncomfortable**. I was subconsciously reconciling the battle-training I was about to engage in.
 
-Clearly, boxing is an unnatural thing to do and would surely make anyone (and their brain) uncomfortable.
+Clearly, boxing is an unnatural thing to do and it surely makes everyone (and their brain) uncomfortable - even slightly.
 
 ## Insights From a Prime Mike Tyson 💪
 
 I found my yawning before sparring odd and wondered if it only happened to me.
 
-Surely, it was something wrong with me, some deep seeded cowardice I'm working through... until I saw a video of prime Mike Tyson, lacing up his gloves minutes before some scheduled sparring… and he started yawning! 😲
+Surely, it was something wrong with me, some deep seeded cowardice to be eradicated... until I saw a video of prime Mike Tyson, lacing up his gloves minutes before some scheduled sparring… and he started yawning! 😲
 
-And it wasn’t just one yawn, it was one yawn after another. Maybe like 3 or 4.
+And it wasn’t just one yawn, it was one yawn after another. Maybe like 3 or 4 in a row.
 
 The same sequence that would happen to me.
 
 Here was Iron Mike, Kid Dynamite, the reigning heavy weight champ showing his proverbial cards.
 
-For those who connected the dots, it told us he was uncomfortable.
+For those who are able to connect the dots, his yawning told us he was uncomfortable - or at least preparing to step into discomfort.
 
-However, as it was later demonstrated when he'd dismantle his opponents, he was still very capable of rising above whatever was revealing itself and kick tail.
+He, of course, went on to dismantle each of his multiple sparring patners in an incredible display of power, skill, and stamina during 10 rounds of round-robin.
 
-But it showed that deep human connection and similarity we all share.
+BUT, he still needed to consciously rise above whatever was revealing itself in order to proceed to kick tail.
+
+It showed a deep human connection and similarity we all share.
 
 ## Conclusion: Yawning as a Symbol of Courage in the Making💡
 
@@ -96,7 +98,7 @@ It's more like a sign of struggle (even in a small sense) against something.
 
 Sometimes it pops up during a rigorous Burpee routine and/or during some challenging studies.
 
-This hack has become extremely insightful.
+Nevertheless, this hack has become extremely insightful.
 
 It gives me the awareness to step back and assess what’s going on before getting in my Mike Tyson mode and doing the work necessary to kick a$$ despite whatever internal discomfort is going on.
 
