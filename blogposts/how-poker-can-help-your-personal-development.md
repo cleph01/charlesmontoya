@@ -4,11 +4,9 @@ date: "2024-04-12"
 image: "/assets/images/blog/poker_tell.jpg"
 ---
 
-# Unveiling the Power of "Tells": How Poker Terminology can Aid Personal Development 🃏
-
 ![Poker](/assets/images/blog/poker_tell.jpg)
 
-They both share this concept of a “tell” 🤫.
+They both share this concept of a “tell” 🤫🃏.
 
 ## Discovering a Psychological "Tell" at the Scientology Center 🕵️‍♂️
 
