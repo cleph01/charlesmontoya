@@ -9,7 +9,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-    title: "Charles Montoya | Web Developer",
+    title: "Charles Montoya | Cybersecurity & Web Dev",
     description: "Skilled in React, Typescript, Tailwind, Node, and more!",
 };
 

@@ -19,7 +19,7 @@ export default function Home() {
                             <span className="text-red-400">Technologist</span>
                         </p>
                         <p className="text-xs sm:text-base mb-3">
-                            Trained Web Developer | Cybersecurity Student
+                            Cybersecurity Student | Trained Web Developer
                         </p>
                         <p className="sm:text-lg">New York, NY</p>
                         <div className="text-xs mt-4 sm:text-base">
